@@ -11,5 +11,5 @@ Some of these features are:
 Models such as **Perceptron**, **Random Forest** and **Gradient Boosting** are used in this project. Each of them is associated with its Confusion Matrix. \
 Eventually, a **ROC Curve** is displayed, in order to better visualize the performance of each model.
 
-Then, after applying **RFECV** to the dataset, one of the best models (Gradient Boosting) is trained again, in order to boost its performance, and saved in a `.sav` file using the `pickle` library.\
+Then, after applying **RFECV** to the dataset, one of the best models (Gradient Boosting) is trained again to boost its performance. Eventually, it'a saved in a `.sav` file using the `pickle` library.\
 So, this model can be reused to classify future given mushrooms.
