@@ -1,4 +1,15 @@
 # Mushroom Binary Classifier
+
+<br>
+<div align="center">
+
+![language](https://img.shields.io/github/languages/top/th3-riddler/Mushroom-Binary-Classifier?style=for-the-badge&logo=jupyter&color=orange)
+![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
+![OS](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+<br>
+
 Mushroom binary classifier is a basic binary classification project that trains different models on recognizing if a given mushroom is poisonous or edible based on its characteristics. \
 Some of these features are:
 - cap-shape
