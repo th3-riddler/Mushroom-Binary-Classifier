@@ -7,6 +7,7 @@
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github)
 ![OS](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<img src="https://logos-download.com/wp-content/uploads/2021/01/Jupyter_Logo.png" height="300px">
 </div>
 <br>
 
